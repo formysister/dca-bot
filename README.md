@@ -111,7 +111,5 @@ _I built this to execute my own micro dollar cost-averaging crypto buys. Use and
 
 # Tips
 If you found this useful, send me some digital love
-- ETH: 0xb581603e2C4eb9a9Ece4476685f0600CeB472241
-- BTC: 13u1YbpSzNsvVpPMyzaDAfzP2jRcZUwh96
-- LTC: LMtPGHCQ3as6AEC9ueX4tVQw7GvHegv3fA
-- DASH: XhCnytvKkV44Mn5WeajGfaifgY8vGtamW4
+- ETH: 0x8fA0f7Da20C8dea950d1c5Dc55384b162d82dA6C
+- BNB: 0x8fA0f7Da20C8dea950d1c5Dc55384b162d82dA6C
