@@ -1,6 +1,6 @@
 
 class Config:
-    SQLITE_DB_FILE = 'data.db'
+    SQLITE_DB_FILE = 'database.db'
 
     interval = None
     update_candles = True
